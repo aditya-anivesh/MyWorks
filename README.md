@@ -20,11 +20,11 @@ This repository contains two different projects:
 
 #### Banking Management System  
 1. Compile the Java files:  
-   sh
+   
    javac BankAcc.java
      
 2. Run the program:  
-   sh
+   
    java BankAcc
      
 3. Follow the on-screen instructions to interact with the system.  
