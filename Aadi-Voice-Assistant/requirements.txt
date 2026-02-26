@@ -1,0 +1,7 @@
+speechrecognition
+pyttsx3
+customtkinter
+groq
+python-dotenv
+psutil
+numpy
